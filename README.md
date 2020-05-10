@@ -11,7 +11,7 @@ This repository contains multiple projects for self driving car.
 
 
 
-## Lane Lines Detector
+# Lane Lines Detector
 
 The goal of this first project was to **create a simple pipeline to detect road lines** in a frame taken from a roof-mounted camera.
 A short demo [video](http://www.youtube.com/watch?feature=player_embedded&v=KlQ-8iD1EFM)  can be found here.
@@ -32,7 +32,7 @@ Image processing pipeline goes something like this:
 ![Final resault](https://i.ytimg.com/vi/EZcHGsPX55Y/maxresdefault.jpg)
 
 
-## Traffic Light Classifier
+# Traffic Light Classifier
 
 The goal of this project was to build a **CNN** in [TensorFlow](https://www.tensorflow.org/) to **classify traffic sign images** from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
