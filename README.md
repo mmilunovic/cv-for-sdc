@@ -1,6 +1,6 @@
-# Self-Driving Car Engineer Nanodegree
+# Self-Driving Car Project
 
-This repository contains projects from Self-Driving Car Engineer Nanodegree course on Udacity. 
+This repository contains multiple projects for self driving car.
 
 ## Projects
 
@@ -8,7 +8,6 @@ This repository contains projects from Self-Driving Car Engineer Nanodegree cour
 - Traffic Light Classifier
 - Behavioral Cloning
 - Advanced Lane Finding
-
 
 
 
